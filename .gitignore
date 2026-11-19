@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large datasets (>2MB) excluded from version control
+*-large.csv
+*-80pct.csv
+*-50pct.csv
+*-30pct.csv
+*-20pct.csv
+*-10pct.csv
+*-5pct.csv
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+*.log
